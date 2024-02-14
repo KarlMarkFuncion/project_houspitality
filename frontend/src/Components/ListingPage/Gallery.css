@@ -1,0 +1,10 @@
+.gallery{
+    height: 500px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.gallery img{
+    object-fit:contain;
+    height: 100%;
+}

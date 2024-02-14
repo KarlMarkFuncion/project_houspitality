@@ -1,0 +1,1 @@
+use Zustand (redux) data to pass variables across components.
